@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "private": true,
-  "homepage": "https://dicaprioleonardo.github.io/spa-portfolio"
+  "homepage": "https://dicaprioleonardo.github.io/spa-portfolio",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
